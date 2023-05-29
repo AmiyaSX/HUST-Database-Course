@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "1c1e5fbd6de354ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a36a5049f201a4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "afe5132ba967ade6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023-04-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c4c09db7ccd8852",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/muzero_pong_ms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "495cf190f91d234e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6bfd8202b94ded46",
+    "type": "split",
+    "children": [
+      {
+        "id": "de1f048071137335",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc98eeda2e7bdde4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0ef62406eeebd62",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f9929d8c196890f5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "8eedb6a1c528fb8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2a4d5f420421195",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9a0bc3c21fa5691",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data/muzero_pong_ms.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d695cbc1d417bd7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data/muzero_pong_ms.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d8a38cc6d77ded40",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "478ce42846fac086",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data/muzero_pong_ms.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "0c4c09db7ccd8852",
+  "lastOpenFiles": [
+    "2023-04-09.md",
+    "data/muzero_pong_ms.md",
+    "data",
+    "2023-02-03.md"
+  ]
+}
